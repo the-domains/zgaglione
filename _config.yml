@@ -1,0 +1,28 @@
+name: zgaglione
+favicon: null
+layout_spectrum: 0.8201746211852878
+typography_spectrum: 0.5851336498744786
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.09761277749203146
+  lightness: 0.07783463876694441
+  saturation: 0.11829800740815699
+  rhythmicContrast: 0.720387612702325
+purpose: []
