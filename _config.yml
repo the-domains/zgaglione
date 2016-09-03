@@ -1,20 +1,4 @@
-name: zgaglione
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.27385
-title: Zachary Gaglione
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -26,4 +10,21 @@ color:
   lightness: 0.3125
   saturation: 0.1875
   rhythmicContrast: 0.720387612702325
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: zgaglione
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Zachary Gaglione
+description: Independant Web + Print Designer
 purpose: []
